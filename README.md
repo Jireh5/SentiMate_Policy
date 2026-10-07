@@ -29,5 +29,4 @@ SentiMate's data processing practices align with global student privacy and data
 ---
 ## 6. Contact Us
 For questions regarding this Privacy Policy or to request data deletion, please contact the SentiMate Development & Student Welfare Team:
-* **Email:** `sentimate.support@yourschool.edu`  
 * **Institution:** Technological University of the Philippines / Guidance & Counseling Office  
